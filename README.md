@@ -3,7 +3,7 @@
 ### Background: 
 Pewlett Hackard is a large company boasting several thousand employees and it’s been around for a long time. Pewlett Hachard is looking toward the future in two ways: first, it’s offering a retirement package for those who meet certain criteria. The second way, its starting to think about which positions will need to be filled in near future. The number of upcoming retirements will leave thousand of job openings. What would happen to the company if they didn’t look a head and prepare for these many vacancies? The company decided to perform employee research to find the answer to this question.
 ### The Purpose:
-The purpose of this project is to determine the number of retiring employee [Data]() per title and identify employees who are eligible to participate in a mentorship program. The employee data available is six csv files because Pewlett Hackard has been used EXCEL and VBA to work with their data. But now they decide to use SQL.  In this analysis we will write a SQL query using PostgreSQL server and pgAdmin interface.
+The purpose of this project is to determine the number of retiring employee [Data](https://github.com/intisarkhalil/Pewlett-Hackard-Analysis.git) per title and identify employees who are eligible to participate in a mentorship program. The employee data available is six csv files because Pewlett Hackard has been used EXCEL and VBA to work with their data. But now they decide to use SQL.  In this analysis we will write a **SQL** query using **PostgreSQL** server and **pgAdmin** interface.
 The relationships between the six csv data files were designed the following ERD. We use **SQL** tools and function to: 
 - Create new tables with the ```INTO``` statement
 - Export a table as a ```CSV``` file
